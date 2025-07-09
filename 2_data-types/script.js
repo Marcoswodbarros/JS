@@ -1,4 +1,4 @@
-// Tipos de dados
+// Tipos de dados primitivos
 
 // String - Conjunto de caracteres;
 let name = 'Marcos';
@@ -14,3 +14,6 @@ let lastName;
 
 // Null - Valor definido como "sem valor" (propositalmente).
 let color = null;
+
+
+// Tipos de dados de referência
