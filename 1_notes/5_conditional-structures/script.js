@@ -19,7 +19,7 @@ let nome = 'Marcos';
 
 switch (nome) {
     case 'Marcos':
-        console.log('Bem-vindo, Marcos');
+        console.log('Bem-vindo, Marcos.');
         break;
 
     case 'Neto':
@@ -29,3 +29,9 @@ switch (nome) {
     default:
         console.log('Bem-vindo, usuário.');
 }
+
+
+// ternary operator
+let color = 'red';
+
+color === 'blue' ? console.log('A cor é azul.') : console.log('A cor não é azul.');
